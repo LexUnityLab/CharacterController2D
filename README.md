@@ -7,7 +7,8 @@ A simple demo scene is included along with a few Spelunky sprites (which obvious
 
 Install
 =====================
-https://github.com/LexUnityLab/CharacterController2D.git?path=/Assets/CharacterController2D
+`npm install -g openupm-cli`
+`openupm add com.lexnewgate.character2d`
 
 Demo Scene
 =====================
