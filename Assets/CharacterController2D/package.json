@@ -9,6 +9,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
+    "com.dbrizov.naughtyattributes":"2.1.4"
   },
   "keywords": [
     "keyword1",
