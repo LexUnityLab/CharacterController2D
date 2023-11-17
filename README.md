@@ -5,7 +5,9 @@ CharacterController2D is similar to the built-in Unity CharacterController compo
 
 A simple demo scene is included along with a few Spelunky sprites (which obviously should not be used in your game!). An overview video showing how to get started is available on the prime31studios YouTube channel [here](http://www.youtube.com/watch?v=KpnImAdiiaQ&feature=youtu.be).
 
-
+Install
+=====================
+https://github.com/LexUnityLab/CharacterController2D.git?path=/Assets/CharacterController2D
 
 Demo Scene
 =====================
