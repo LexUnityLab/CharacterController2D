@@ -7,7 +7,7 @@ A simple demo scene is included along with a few Spelunky sprites (which obvious
 
 Install
 =====================
-`npm install -g openupm-cli`
+`npm install -g openupm-cli`  
 `openupm add com.lexnewgate.character2d`
 
 Demo Scene
